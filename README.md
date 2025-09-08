@@ -1,9 +1,6 @@
-# AFFORDMED ASSIGNMENT
-This project is my submission for the Affordmed evaluation.  
 It implements a simple URL shortening service with custom logging middleware, redirect handling, and click statistics.
 
-### Author
-- **Name:** ISHITA MODI  
+### Author 
 - **Roll No:** 2201641550051  
 - **Email:** ishitamodi0@gmail.com  
 - **GitHub Username:** ishita230105 
